@@ -1,0 +1,6 @@
+{
+    "name": "Clock",
+    "version": "0.1.0",
+    "icon": "clock.png",
+    "html": "clock.html"
+}

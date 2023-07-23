@@ -1,0 +1,8 @@
+{
+    "paths": {
+        "apps": [
+            "apps/Clock",
+            "apps/Settings"
+        ]
+    }
+}
